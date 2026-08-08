@@ -7,10 +7,10 @@ Welcome to discuss and exchange ideas on related topics.
 **Xiangrong Sun** (2026/08/08)  
 Email: [xiangrongsun666@163.com] Or [1983206293@qq.com]
 
-The blade surface is represented using a cubic NURBS formulation with polynomial 
-orders $p=q=3$. The geometry is discretized using a $10 \times 5$ mesh, generated 
-from a $13 \times 8$ array of control points. All NURBS weights are assigned as 
-unity ($w_{ij}=1$).
+The blade surface is generated in Rhino using a cubic NURBS representation with 
+polynomial orders p=q=3. The geometry is discretized into a $10 \times 5$ mesh, 
+defined by a $13 \times 8$ array of control points. All NURBS weights are assigned 
+as unity (weight=1).
 
 The complete set of control point coordinates is provided in the file:
 
